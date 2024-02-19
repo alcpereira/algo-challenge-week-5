@@ -1,0 +1,9 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  color: #3f3f3f;
+}
+
+a {
+  color: inherit;
+}
